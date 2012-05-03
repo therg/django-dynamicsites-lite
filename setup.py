@@ -23,5 +23,5 @@ setup(
     maintainer_email='v.oostveen@gmail.com',
     url='https://bitbucket.org/ladyrassilon/django-dynamicsites',
     platforms=['any'],
-    packages=['dynamicsites'],
+    #packages=['dynamicsites'],
 )
